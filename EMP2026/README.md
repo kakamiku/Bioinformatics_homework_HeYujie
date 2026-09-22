@@ -19,7 +19,3 @@ EMP2026/
   _ledger/<run_id>.json
   README.md
 ```
-
-Sync is additive: new runs are created; existing files are not deleted.
-
-Latest sync: `EMP2026/Week_05/microbiome_16s/weekly/runs/2026-09-21T14-19-57-132Z-abgom1` (run `2026-09-21T14-19-57-132Z-abgom1`)

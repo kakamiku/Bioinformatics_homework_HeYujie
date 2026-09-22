@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-09-22T07-31-47-000Z-hw2tx",
+  "files": [
+    {
+      "file": "Week5_Homework_2_Report.md",
+      "bytes": 7950,
+      "sha256": "521f00efb8d9615ddc11433d66a996a73d5db5e66e8dd6804d481ec865b369d7"
+    },
+    {
+      "file": "diff_DMSO+LIPUS_vs_DMSO.csv",
+      "bytes": 1939512,
+      "sha256": "b905e50914fdd25e80856c1e2a54dbd54787aaacdbce6045fbd41c51c3f12d8a"
+    },
+    {
+      "file": "diff_T3976+LIPUS_vs_DMSO.csv",
+      "bytes": 1958901,
+      "sha256": "6ea5f0be7256cdc5d913d6ab7afd2b4bc3757a8aebbf25b7094d1b20c8793e92"
+    },
+    {
+      "file": "diff_T3976_vs_DMSO.csv",
+      "bytes": 1873084,
+      "sha256": "45f3bf86abb06aad55bcb0f80072b253b2716ff9005cce058cd2e110abde0ec3"
+    },
+    {
+      "file": "diff_T4400+LIPUS_vs_DMSO.csv",
+      "bytes": 1937455,
+      "sha256": "026e50a645b7bd6a3543aef3b46c4fd8d28b16f0dbd51ec75a61380b7a3caec7"
+    },
+    {
+      "file": "diff_T4400_vs_DMSO.csv",
+      "bytes": 1860196,
+      "sha256": "452405d5447b1bf36f7137e0246a3906d8dfa659e1bb75e3d77ff6404d8a76fa"
+    },
+    {
+      "file": "diff_summary.json",
+      "bytes": 8938,
+      "sha256": "a8626ff00a0152f6d101657369fc532a09278a330f3d170f4cba17496abce515"
+    },
+    {
+      "file": "heatmap_topvar50.png",
+      "bytes": 17039,
+      "sha256": "3d887abe617ed36ea4a3cf22f02cc7edd9e0ed38aeabccc67dec71ff1de0706b"
+    },
+    {
+      "file": "pca.png",
+      "bytes": 165589,
+      "sha256": "d417b7d72a44f82978fab6f2bcc0eedddb10bfbb91889c9116d73073aa71fef4"
+    },
+    {
+      "file": "run_deseq2.R",
+      "bytes": 1911,
+      "sha256": "5b6db9cc1ca7aeaa4decff6905ab98c2dd5bfb23c20237fd0b301ba610194240"
+    },
+    {
+      "file": "run_plots.R",
+      "bytes": 4238,
+      "sha256": "570e332687714e0bd60f6546649ccf0a37e9c91522bc20f0199ad3e86b6de341"
+    },
+    {
+      "file": "top20_boxplot_T4400.png",
+      "bytes": 288601,
+      "sha256": "ff1d5a865e14b71b61c257bac6ed36518fabc4666dc9f15e3067a7e85ae4d003"
+    },
+    {
+      "file": "top30_DEGs.csv",
+      "bytes": 6329,
+      "sha256": "c486c2049fa8f9297bc262b8e1619d2f3b494c0c572fbc8bc714a739ce92ffae"
+    },
+    {
+      "file": "volcano_T4400.png",
+      "bytes": 438223,
+      "sha256": "0727ebdcd8ebba910b8c86bab01f5dfe3bfa543a554a1006987d3c4f8b4786b8"
+    }
+  ]
+}
