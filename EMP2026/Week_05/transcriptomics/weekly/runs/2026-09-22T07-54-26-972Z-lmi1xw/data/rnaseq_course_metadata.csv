@@ -1,0 +1,9 @@
+"sample","Group","gender","family_history","disease_duration","age","height","weight","BMI","body_temperature","diastolic_pressure","systolic_pressure","Smoking","passive_smoking","Drinking","UCEIS","partial_Mayo","Mayo_SFS","Mayo_RBS","IBS_SSS","abdominal_pain_Degree","days_of_abdominal_pain","satisfaction_with_bowel_habit","R_partial_Mayo","D_partial_Mayo","D_Mayo_SFS","D_Mayo_RBS","R_IBS_SSS","D_IBS_SSS","D_abdominal_pain","D_days_of_abdominal_pain","D_satisfaction_with_bowel_habit","Subgroup","patient"
+"DHMR001","DMSO",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DHMR002","DMSO",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DHMR003","DMSO",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DHMR004","DMSO",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DHMR005","DMSO+LIPUS",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DHMR006","DMSO+LIPUS",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DHMR007","DMSO+LIPUS",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"DHMR008","DMSO+LIPUS",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

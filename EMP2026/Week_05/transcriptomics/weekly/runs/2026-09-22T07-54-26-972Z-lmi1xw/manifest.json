@@ -1,0 +1,30 @@
+{
+  "course_code": "EMP2026",
+  "emp_version": "9.0.4",
+  "layout": "week_first",
+  "week_dir": "Week_05",
+  "track_id": "transcriptomics",
+  "track_key": "transcriptomics",
+  "track_title": "转录组 RNA-seq",
+  "assignment_type": "weekly",
+  "assignment_id": "week_05",
+  "assignment_title": "第5周",
+  "week": 5,
+  "type": "weekly",
+  "case_id": "course_transcriptomics",
+  "task_ids": [],
+  "student_id": "suat24000200",
+  "display_name": "贺羽婕",
+  "github_login": "kakamiku",
+  "github_repo": "kakamiku/Bioinformatics_homework_HeYujie",
+  "github_branch": "main",
+  "git_path": "EMP2026/Week_05/transcriptomics/weekly/runs/2026-09-22T07-54-26-972Z-lmi1xw",
+  "session_id": "K2ScCtzRaI78WfeTQn54VhoW",
+  "experiment": "rnaseq_course",
+  "run_id": "2026-09-22T07-54-26-972Z-lmi1xw",
+  "synced_at": "2026-09-22T07:54:26Z",
+  "include_rds": false,
+  "session_manifest": {
+    "session_id": "K2ScCtzRaI78WfeTQn54VhoW"
+  }
+}
