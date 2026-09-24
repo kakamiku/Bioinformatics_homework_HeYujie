@@ -1,0 +1,176 @@
+{
+  "success": true,
+  "user_id": "AT2U1iCTVh7OohClREX3VfgU",
+  "events": [
+    {
+      "event_type": "case_open",
+      "case_id": "course_transcriptomics",
+      "user_id": "AT2U1iCTVh7OohClREX3VfgU",
+      "role": "local",
+      "ts": "2026-09-24T15:23:37.541+0800"
+    },
+    {
+      "event_type": "case_open",
+      "case_id": "course_microbiome_16s",
+      "user_id": "AT2U1iCTVh7OohClREX3VfgU",
+      "role": "local",
+      "ts": "2026-09-24T15:23:40.721+0800"
+    },
+    {
+      "event_type": "api_call",
+      "path": "/import/demo",
+      "method": "POST",
+      "total_ms": 661,
+      "backend_ms": 630.6,
+      "case_id": "course_microbiome_16s",
+      "experiment": null,
+      "user_id": "AT2U1iCTVh7OohClREX3VfgU",
+      "role": "local",
+      "ts": "2026-09-24T15:23:46.701+0800"
+    },
+    {
+      "event_type": "api_call",
+      "path": "/clinical/vars_standalone/AT2U1iCTVh7OohClREX3VfgU",
+      "method": "GET",
+      "total_ms": 17,
+      "backend_ms": 1.5,
+      "case_id": "course_microbiome_16s",
+      "experiment": null,
+      "user_id": "AT2U1iCTVh7OohClREX3VfgU",
+      "role": "local",
+      "ts": "2026-09-24T15:23:46.756+0800"
+    },
+    {
+      "event_type": "api_call",
+      "path": "/prepare/snapshots/AT2U1iCTVh7OohClREX3VfgU/m16s_course",
+      "method": "GET",
+      "total_ms": 21,
+      "backend_ms": 7.3,
+      "case_id": "course_microbiome_16s",
+      "experiment": "m16s_course",
+      "user_id": "AT2U1iCTVh7OohClREX3VfgU",
+      "role": "local",
+      "ts": "2026-09-24T15:23:46.895+0800"
+    },
+    {
+      "event_type": "api_call",
+      "path": "/visualize/barplot",
+      "method": "POST",
+      "total_ms": 3045,
+      "backend_ms": 3022.8,
+      "case_id": "course_microbiome_16s",
+      "experiment": "m16s_course",
+      "user_id": "AT2U1iCTVh7OohClREX3VfgU",
+      "role": "local",
+      "ts": "2026-09-24T15:25:05.382+0800"
+    },
+    {
+      "event_type": "api_call",
+      "path": "/analyze/alpha",
+      "method": "POST",
+      "total_ms": 279,
+      "backend_ms": 258.2,
+      "case_id": "course_microbiome_16s",
+      "experiment": "m16s_course",
+      "user_id": "AT2U1iCTVh7OohClREX3VfgU",
+      "role": "local",
+      "ts": "2026-09-24T15:25:19.480+0800"
+    },
+    {
+      "event_type": "api_call",
+      "path": "/analyze/differential/async",
+      "method": "POST",
+      "total_ms": 30463,
+      "backend_ms": 30443.9,
+      "case_id": "course_microbiome_16s",
+      "experiment": "m16s_course",
+      "user_id": "AT2U1iCTVh7OohClREX3VfgU",
+      "role": "local",
+      "ts": "2026-09-24T15:26:05.821+0800"
+    },
+    {
+      "event_type": "api_call",
+      "path": "/analyze/differential/async",
+      "method": "POST",
+      "total_ms": 87,
+      "backend_ms": 58.3,
+      "case_id": "course_microbiome_16s",
+      "experiment": "m16s_course",
+      "user_id": "AT2U1iCTVh7OohClREX3VfgU",
+      "role": "local",
+      "ts": "2026-09-24T15:28:45.522+0800"
+    },
+    {
+      "event_type": "api_call",
+      "path": "/visualize/boxplot",
+      "method": "POST",
+      "total_ms": 740,
+      "backend_ms": 717.1,
+      "case_id": "course_microbiome_16s",
+      "experiment": "m16s_course",
+      "user_id": "AT2U1iCTVh7OohClREX3VfgU",
+      "role": "local",
+      "ts": "2026-09-24T15:30:42.431+0800"
+    },
+    {
+      "event_type": "api_call",
+      "path": "/visualize/heatmap",
+      "method": "POST",
+      "total_ms": 548,
+      "backend_ms": 529.8,
+      "case_id": "course_microbiome_16s",
+      "experiment": "m16s_course",
+      "user_id": "AT2U1iCTVh7OohClREX3VfgU",
+      "role": "local",
+      "ts": "2026-09-24T15:30:50.659+0800"
+    },
+    {
+      "event_type": "api_call",
+      "path": "/visualize/deg_heatmap",
+      "method": "POST",
+      "total_ms": 396,
+      "backend_ms": 371.8,
+      "case_id": "course_microbiome_16s",
+      "experiment": "m16s_course",
+      "user_id": "AT2U1iCTVh7OohClREX3VfgU",
+      "role": "local",
+      "ts": "2026-09-24T15:30:53.278+0800"
+    },
+    {
+      "event_type": "api_call",
+      "path": "/visualize/scatter",
+      "method": "POST",
+      "total_ms": 2131,
+      "backend_ms": 2103.3,
+      "case_id": "course_microbiome_16s",
+      "experiment": "m16s_course",
+      "user_id": "AT2U1iCTVh7OohClREX3VfgU",
+      "role": "local",
+      "ts": "2026-09-24T15:31:37.129+0800"
+    },
+    {
+      "event_type": "api_call",
+      "path": "/visualize/structure",
+      "method": "POST",
+      "total_ms": 809,
+      "backend_ms": 786.7,
+      "case_id": "course_microbiome_16s",
+      "experiment": "m16s_course",
+      "user_id": "AT2U1iCTVh7OohClREX3VfgU",
+      "role": "local",
+      "ts": "2026-09-24T15:31:48.046+0800"
+    },
+    {
+      "event_type": "api_call",
+      "path": "/visualize/alpha",
+      "method": "POST",
+      "total_ms": 686,
+      "backend_ms": 660.7,
+      "case_id": "course_microbiome_16s",
+      "experiment": "m16s_course",
+      "user_id": "AT2U1iCTVh7OohClREX3VfgU",
+      "role": "local",
+      "ts": "2026-09-24T15:33:57.496+0800"
+    }
+  ]
+}

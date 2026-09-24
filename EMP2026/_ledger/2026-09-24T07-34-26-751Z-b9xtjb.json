@@ -1,0 +1,17 @@
+{
+  "event": "sync",
+  "synced_at": "2026-09-24T07:34:27Z",
+  "student_id": "suat24000200",
+  "display_name": "贺羽婕",
+  "emp_version": "9.0.4",
+  "github_login": "kakamiku",
+  "github_repo": "kakamiku/Bioinformatics_homework_HeYujie",
+  "github_branch": "main",
+  "week_dir": "Week_05",
+  "track": "transcriptomics",
+  "assignment_type": "weekly",
+  "assignment_id": "week_05",
+  "assignment_title": "第5周",
+  "git_path": "EMP2026/Week_05/transcriptomics/weekly/runs/2026-09-24T07-34-26-751Z-b9xtjb",
+  "run_id": "2026-09-24T07-34-26-751Z-b9xtjb"
+}
